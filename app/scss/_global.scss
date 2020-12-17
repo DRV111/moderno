@@ -24,6 +24,10 @@ body{
     font-weight: 400;
     color: $text;
     overflow-x: hidden;
+    background-color: $gray;
+}
+.header{
+    background-color: #fff;
 }
 .container{
     max-width: 1200px;
